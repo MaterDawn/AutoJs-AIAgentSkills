@@ -27,7 +27,7 @@ AI 客户端连接设备的 MCP 服务后，通过 `learnAutoJsSkill` 工具一�
 | 项目 | 说明 |
 | --- | --- |
 | 适用范围 | **Auto.js 高级版（MCP 版）**，内置 Node.js 引擎、Rhino 引擎与 MCP 服务 |
-| 下载 | 官方下载页：[点击前往下载](https://api.intcl.top/down/) ；或直接下载最新 APK：[AutoJs高级版_MCP全新版本S.apk](../../releases/latest/download/AutoJs高级版_MCP全新版本S.apk) |
+| 下载 | 官方下载页：[点击前往下载](https://api.intcl.top/down/) ；或直接下载最新 APK：[AutoJs-Pro-MCP-S.apk](../../releases/latest/download/AutoJs-Pro-MCP-S.apk) |
 | 安装步骤 | 下载安装包 → 安装 → 启动应用 → **点击「登录」** 完成账号登录 |
 | MCP 服务 | 在应用内的 AI Agent / MCP 页面开启服务开关（默认端口 `8765`，端口占用时自动向后递增，最大 `8795`） |
 
